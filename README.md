@@ -1,34 +1,40 @@
-# Visualization-of-taxes-and-incomes-dataset-France
+    # Data_Viz_Taxes_Incomes
 
-Aquisition de Données :
+Used software : PowerBI
 
-Récuperation des tables de chaque années sur l'OpenData
-Selection des villes imposées
-Fusion des tables des différentes années
-Ajouts de la colonne Année
-Agregation des données pour les villes Lyon et Paris (Sommation des valeurs de différents Arrondissement)
+![Alt Text](demo.gif)
 
+## Aquisition de Données :
 
-Filtres :
-
-Filtre par Années
-Filtre par tranches fiscales
-Filtre par villes
+- Récuperation des tables de chaque années sur l'OpenData
+- Selection des villes imposées
+- Fusion des tables des différentes années
+- Ajouts de la colonne Année
+- Agregation des données pour les villes Lyon et Paris (Sommation des valeurs de différents Arrondissement)
 
 
-KPI :
+## Filtres :
 
-Le nombre total des impôts net des années 2017 à 2020
-Le nombre total des revenus fiscaux des années 2017 à 2020
-La moyenne (pourcentage) des foyers fiscaux par tranche de revenu fiscal 
-Les montants des traitement et salaires par ville
-Les montants des retraites et pensions par ville 
-Le nombre de foyers fiscaux et foyers fiscaux imposés par années 
-Tableau récapiulatif affichant l'impôt total et revenu fiscal des foyers par ville 
+- Filtre par Années
+- Filtre par tranches fiscales
+- Filtre par villes
 
 
+## KPI :
+
+- Le nombre total des impôts net des années 2017 à 2020
+- Le nombre total des revenus fiscaux des années 2017 à 2020
+- La moyenne (pourcentage) des foyers fiscaux par tranche de revenu fiscal 
+- Les montants des traitement et salaires par ville
+- Les montants des retraites et pensions par ville 
+- Le nombre de foyers fiscaux et foyers fiscaux imposés par années 
+- Tableau récapiulatif affichant l'impôt total et revenu fiscal des foyers par ville 
 
 
-Démo !!!!
+
+
+### Démo !!!!
 
 https://drive.google.com/file/d/18UhAt1wEBMglF6DTECWyz_8gqYDkqDHY/view?usp=sharing
+
+    
